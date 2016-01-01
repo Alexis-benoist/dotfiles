@@ -44,4 +44,5 @@ execute "set rtp+=" . g:opamshare . "/merlin/vim"
 let g:syntastic_ocaml_checkers = ['merlin']
 
 syntax on
-:set tabstop=4 shiftwidth=4 expandtab
+set tabstop=4 shiftwidth=4 expandtab
+" Plugin 'Valloric/YouCompleteMe'
